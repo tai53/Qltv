@@ -1,0 +1,41 @@
+Ma sach: 001
+Tieu de: Giai tich 1
+Chu de:Toan hoc
+Tac gia:GV
+Nha xuat ban:GV dai hoc GTVT
+Ngay san xuat:19/02/2022
+So trang:250
+So trang copies:5
+
+--------------------
+
+Ma sach:002
+Tieu de:Hay trao cho anh
+Chu de:Am nhac
+Tac gia:Son Tung MTP
+Nha xuat ban:MTP
+Ngay san xuat:27/10/2019
+So trang:30
+So trang copies:13
+
+---------------------
+
+Ma sach:003
+Tieu de:Nha Gia Kim
+Chu de:Tieu thuyet
+Tac gia:Paulo Coelho
+Nha xuat ban:HH
+Ngay san xuat:1988
+So trang:121
+So trang copies:9
+
+--------------------
+
+Ma sach:004
+Tieu de:Toi ac va hinh phat
+Chu de:Tieu thuyet
+Tac gia:Fyodor Dostoevsky
+Nha xuat ban:AA
+Ngay san xuat:10/02/2022
+So trang:100
+So trang copies:23

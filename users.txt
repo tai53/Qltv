@@ -1,0 +1,10 @@
+User ID: 1
+Username: user
+Password: user
+Role: user
+----------
+User ID: 2
+Username: admin
+Password: admin
+Role: admin
+----------
